@@ -1,0 +1,18 @@
+
+
+body
+{
+    font-family: 'segoe ui light';
+}
+
+a
+{
+    text-decoration: none !important;
+}
+.con{
+    position: fixed !important;
+    top:100px !important;
+    left: 0px !important;
+    width: 150px !important;
+    height: 100vh !important;
+}
